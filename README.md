@@ -1,6 +1,5 @@
 login page with animation 
 
 z
-zzzz
-zz
+zzzzz
 z
