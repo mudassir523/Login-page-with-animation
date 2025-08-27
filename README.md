@@ -1,7 +1,7 @@
 login page with animation 
 
 zz
-zzzzzzz
+zzzzzzzz
 zzzz
 zz
 z
