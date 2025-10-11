@@ -1,1 +1,1 @@
-rlogin page with animation
+grlogin page with animation
