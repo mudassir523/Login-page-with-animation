@@ -1,3 +1,3 @@
-hyhgrlogin page with animation
+hyhgrlogin page with animations
 hss
 sssss
