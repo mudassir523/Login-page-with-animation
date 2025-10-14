@@ -1,3 +1,3 @@
-login page with animation
+slogin page with animation
 j
 sf
