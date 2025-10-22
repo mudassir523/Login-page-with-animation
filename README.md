@@ -1,4 +1,4 @@
 ssshss
-login page with animation
+login page with animations
 fs
 s
