@@ -1,3 +1,3 @@
-login page with animation
+login page with animations
 s
 sss
