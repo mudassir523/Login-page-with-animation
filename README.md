@@ -2,7 +2,7 @@ login page with animation
 --
 sssssssssssssssssssxsssssssssssssssssssssssssssss
 --
-ssssssssssssssss
+sssssssssssssssss
 sssssssssssssssssssssssssssssssssssss
 -----
 sssssssssssssssssssssss
