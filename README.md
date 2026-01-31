@@ -1,8 +1,8 @@
 login page with animation
 --
-sssssssssssssssssssxssssssssssssssssssss
+sssssssssssssssssssxsssssssssssssssssssss
 --
-sssssssssss
+ssssssssssss
 sssssssssssssssssssssssssssssssssssss
 -----
 sssssssssssssssssssssss
