@@ -3,7 +3,7 @@ login page with animation
 sssssssssssssssssssssssssslssssss
 --
 sssssssssssssssssssssssfsssss
-ssssssss[s](urls)assssss
+ssssssss[s](urls)assssssss
 wssssssssssssssssss
 ssssssssssssssssssss
 sssssssssss
