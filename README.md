@@ -1,6 +1,6 @@
 login page with animation
 --s
-sssssssssssssssssssssssssslssssssssssssssssssss
+sssssssssssssssssssssssssslsssssssssssssssssssss
 --
 sssssssssssssssssssssssfsssss
 ssssssss[s](urls)assssssssss
