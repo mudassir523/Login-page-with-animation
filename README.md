@@ -2,6 +2,6 @@
 s
 ss
 ssssss
-ssssss
+sssssss
 ssss
 s
