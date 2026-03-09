@@ -1,7 +1,7 @@
 s
 ss
 sss
-sssssss
+ssssssss
 s
 ssssss
 s
