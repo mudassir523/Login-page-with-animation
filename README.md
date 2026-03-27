@@ -1,6 +1,6 @@
 s
 sssssss
-ssssssssssssssssssss
+s
 ssssssssssszxxsssssssss
 sssssss
 z
