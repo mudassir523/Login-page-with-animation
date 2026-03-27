@@ -1,6 +1,5 @@
 s
 sssssss
-ssssssssssssss
-sssssssssssxxsssssss
+sssssssssssssss
 sssssssssssxxssss
 sssss
