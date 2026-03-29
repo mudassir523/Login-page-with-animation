@@ -2,5 +2,5 @@ s
 ssssssswws
 ss
 ssssssssssszxxsssssssssws
-ssssssss
+s
 z
